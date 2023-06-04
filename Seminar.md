@@ -18,3 +18,8 @@
   * potion element 2
 * Potion 2
 * Potion 3
+---
+### Dishes
+1. Chips
+2. Potato
+3. French fries
