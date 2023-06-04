@@ -25,3 +25,13 @@
 3. French fries
 ---
 [Ссылка на сайт почты](https://mail.ru/)
+
+### Code Block
+```
+white (index<size) do
+
+if [numbers[index]>max then
+max=numbers[index]
+index=index+1
+print(max)
+```
