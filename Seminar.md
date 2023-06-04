@@ -2,10 +2,9 @@
 
 ## Menu
 
-1. Potions
-2. Chips
-2. Tomatoes
-2. Code Block
+1. [Potions](#potion)
+2. [Dishes](#dishes)
+2. [Code Block](#code-block)
 
 *Mysterious*  
 **Darknet**  
@@ -13,7 +12,7 @@
 
 ---
 ### Potion
-* Potion 1
+* Potion 1 
   * potion element 1
   * potion element 2
 * Potion 2
