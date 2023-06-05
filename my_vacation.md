@@ -5,7 +5,7 @@
 
 ## Where will i go?
 
-Mountain and city tour.  
+Armenian mountain and city tour.  
 City tour and cold sea.  
 Петербург.
 
