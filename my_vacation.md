@@ -3,6 +3,8 @@
 > *all life is a vacation*
 >
 
+![photo](Дождь_велосипед.jpeg)
+
 ## Where will i go?
 
 Armenian mountain and city tour.  
