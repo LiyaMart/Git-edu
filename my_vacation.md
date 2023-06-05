@@ -1,6 +1,6 @@
 # My vacation
 
-> *all life is a vacation* 
+> *all life is a vacation*
 >
 
 ## Where will i go?
